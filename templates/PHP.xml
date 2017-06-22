@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="php" value="&lt;?php $end$ ?&gt;" description="create php tags" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

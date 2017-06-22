@@ -1,0 +1,30 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="Console.TableResult.Reload" />
+  <action id="ConvertIndentsToTabs">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="RecentFiles" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="hg4idea.QRefresh" />
+</keymap>
