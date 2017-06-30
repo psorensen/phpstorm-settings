@@ -41,6 +41,8 @@
     <option name="SELECTION_BACKGROUND" value="161a1f" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="303134" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
